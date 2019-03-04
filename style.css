@@ -1,36 +1,19 @@
-h1 {
-    text-align: left;
-    font-family: cursive;
-    color: #7ebc59;
-    border-bottom: 5px solid black;
-}
-
-h2 { 
-    color: #368cbf;
-}
-
-div img {
+img {
     height: 200px;
 }
 
-body {
-    background-color: #33363b;
-    font-size: 20px;
+.card {
+    display: inline-block;
 }
 
-.dogs {
-    margin: absolute;
-    color: rgba(32, 11, 8, 0.932);
-    font-weight: bold;
+.my-container {
+    margin: 20px;
 }
 
-/*Ol’ trusty blue: #368cbf 
+.my-container p {
+    margin: 40px;
+}
 
-Accent color green: #7ebc59 
-
-Dark Slate: #33363b
-
-Light grey: #eaeaea 
-
-Found on Free awesome WordPress Themes by ColorLib 
-found on https://hookagency.com/website-color-schemes/ */
+.my-col {
+    height: 500px;
+}
